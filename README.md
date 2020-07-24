@@ -3,7 +3,7 @@
 I am </br>
 # LoopVoid :octocat:</br>
 ### B Coder .</br>
-<img align='right' src="https://media.giphy.com/media/kiBcwEXegBTACmVOnE/giphy.gif" width="500">
+<img align='right' src="https://giphy.com/embed/kiBcwEXegBTACmVOnE" width="384" height="480">
 
 <u>About Me</u></br>
 A man who likes cool things. </br>
