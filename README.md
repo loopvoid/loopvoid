@@ -1,12 +1,8 @@
-### Hi there 
-### 你好, Hello! 👋<br>
-I am </br>
-# LoopVoid :octocat:</br>
-### B Coder .</br>
+## 你好, Hi there !👋</b>
+I'am **LoopVoid** :octocat:</br>
+A man who likes cool things. </br>
 <img align='right' src="https://media.giphy.com/media/26uf0fVN7k4glSdBS/giphy.gif" width="480" height="268">
 
-<u>About Me</u></br>
-A man who likes cool things. </br>
 
 
 
