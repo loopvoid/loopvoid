@@ -7,8 +7,7 @@ I'am **LoopVoid** :octocat:</br>
   <img align="left" alt="loopvoid's qq" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <br/>
-<br/>
-<img align='right' src="https://media.giphy.com/media/26uf0fVN7k4glSdBS/giphy.gif" width="384" height="214">
+<img align='right' src="https://media.giphy.com/media/26uf0fVN7k4glSdBS/giphy.gif" width="300" height="180">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loopvoid&show_icons=true)
 
